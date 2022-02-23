@@ -13,8 +13,8 @@ Removing 'return false' on the prompt questions will allow you to exceed length 
 <h2>Future additions</h2></br>
 Planning on a copy to clipboard function so you can quickly save your generated password
 
-<img src="./Assets/Images/passwordgenerator.png" title="Password Generator"/>
-<img src="./Assets/Images/passwordgenerated.png" title="Password Generated"/>
+<img src="./Assets/Images/passwordgenerator.PNG" title="Password Generator"/>
+<img src="./Assets/Images/passwordgenerated.PNG" title="Password Generated"/>
 
 
 *Developed by Thomas McCalister*
