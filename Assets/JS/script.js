@@ -16,11 +16,11 @@ function promptAnswers(){
   }
   if (charLength > 128){
     alert("Pick a length lower than 128");
-    system.exit()
+    return false;
   }
   if (charLength < 8){
     alert("Pick a length larger than 8");
-    system.exit()
+    return false;
   }
   //lowercase?
   if (confirm("Do you want to use lowercase letters?")) {
